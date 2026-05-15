@@ -1,0 +1,8 @@
+Fruits: durian, rambutan, jackfruit, lychee, mangosteen
+Vegetables: kohlrabi, rutabaga, jicama, endive, celeriac
+Cars: lamborghini, ferrari, porsche, bugatti, maserati
+Animals: pangolin, axolotl, echidna, platypus, okapi
+Colors: chartreuse, cerulean, fuchsia, vermilion, periwinkle
+Sports: decathlon, biathlon, pentathlon, curling, polo
+Countries: mongolia, lithuania, estonia, namibia, bhutan
+Flowers: protea, anemone, gardenia, camellia, hellebore

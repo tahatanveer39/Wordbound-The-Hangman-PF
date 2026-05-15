@@ -1,0 +1,8 @@
+Fruits: apple, banana, grape, mango, pear
+Vegetables: carrot, potato, pea, corn, tomato
+Cars: ford, fiat, kia, honda, toyota
+Animals: cat, dog, cow, goat, horse
+Colors: red, blue, green, yellow, pink
+Sports: football, cricket, tennis, hockey, baseball
+Countries: india, china, usa, brazil, france
+Flowers: rose, lily, tulip, daisy, sunflower

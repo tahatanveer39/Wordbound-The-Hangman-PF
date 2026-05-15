@@ -1,0 +1,8 @@
+Fruits: pineapple, papaya, apricot, cherry, guava
+Vegetables: broccoli, spinach, cauliflower, zucchini, beet
+Cars: mercedes, bmw, honda, nissan, audi
+Animals: tiger, lion, elephant, zebra, fox
+Colors: purple, turquoise, orange, violet, indigo
+Sports: badminton, squash, golf, wrestling, swimming
+Countries: germany, japan, italy, spain, canada
+Flowers: orchid, marigold, hibiscus, lavender, jasmine
